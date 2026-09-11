@@ -1,11 +1,8 @@
 # App Review — standing answers
 
-Apple's information request on the first submission asked six questions. These
-are the answers, kept so the next submission doesn't start from scratch. Paste
-the relevant ones into the Resolution Center, or into App Review Information →
-Notes to head the questions off next time.
+## 1. A Recording of the App functionality
 
----
+Please see the attached recording
 
 ## 2. Purpose and target audience
 
